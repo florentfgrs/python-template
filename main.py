@@ -1,8 +1,2 @@
-import os
-import pathlib
-
-import requests
-
-
 def toto():
-    print("a")
+    print("a1")
