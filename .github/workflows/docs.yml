@@ -38,6 +38,7 @@ jobs:
       - name: Build static website
         run: |
           mkdocs build --clean --config-file mkdocs.yml --verbose --strict
+          ls
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
