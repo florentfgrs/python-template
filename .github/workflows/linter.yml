@@ -20,7 +20,7 @@ env:
 
 
 jobs:
-  lint-py:
+  ruff:
     name: Python 🐍
 
     runs-on: ubuntu-latest
