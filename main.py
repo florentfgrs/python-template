@@ -5,4 +5,4 @@ import requests
 
 
 def toto():
-    pass
+    print("a")
