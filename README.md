@@ -10,3 +10,9 @@ Ce projet me fournit une base pour démarrer un projet Python avec une configura
 - **CI/CD** : intégration avec GitHub Actions pour l'exécution des tests et le déploiement automatique.
 - **Documentation** : structure de base pour générer de la documentation avec MKDocs.
 - **Virtual env** : script pour créer un envrionnement virtuel et installer les dépendances.
+
+## Envrionnement virtuel
+
+```sh
+python -m venv .venv && source .venv/bin/activate
+```
